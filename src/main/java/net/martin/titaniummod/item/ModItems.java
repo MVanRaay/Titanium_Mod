@@ -20,6 +20,7 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
 
     // Custom tools
+
     public static final RegistryObject<Item> TITANIUM_SWORD = ITEMS.register("titanium_sword",
             () -> new SwordItem(ModToolTiers.TITANIUM, 4, 2, new Item.Properties()));
     public static final RegistryObject<Item> TITANIUM_PICKAXE = ITEMS.register("titanium_pickaxe",
@@ -35,6 +36,7 @@ public class ModItems {
             () -> new HoeItem(ModToolTiers.TITANIUM, 0, 0, new Item.Properties()));
 
     // Custom Armor
+
     public static final RegistryObject<Item> TITANIUM_HELMET = ITEMS.register("titanium_helmet",
             () -> new ArmorItem(ModArmourMaterials.TITANIUM_INGOT, ArmorItem.Type.HELMET, new Item.Properties()));
 

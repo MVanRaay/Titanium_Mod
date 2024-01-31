@@ -26,13 +26,15 @@ public class TitaniumMod {
 
     public TitaniumMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-
+        // Creative mode tab
         ModCreativeModeTabs.register(modEventBus);
 
+        // My stuff
         ModItems.register(modEventBus);
 
         ModBlocks.register(modEventBus);
 
+        // Forge stuff
         modEventBus.addListener(this::commonSetup);
 
         MinecraftForge.EVENT_BUS.register(this);
