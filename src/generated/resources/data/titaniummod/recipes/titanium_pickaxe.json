@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "titaniummod:titanium_ingot"
+    }
+  },
+  "pattern": [
+    "TTT",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "titaniummod:titanium_pickaxe"
+  },
+  "show_notification": true
+}

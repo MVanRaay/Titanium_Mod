@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "titaniummod:titanium_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "T T",
+    "T T"
+  ],
+  "result": {
+    "item": "titaniummod:titanium_boots"
+  },
+  "show_notification": true
+}

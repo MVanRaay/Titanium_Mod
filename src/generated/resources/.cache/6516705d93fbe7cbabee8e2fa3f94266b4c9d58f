@@ -1,0 +1,10 @@
+// 1.20.1	2024-01-31T12:47:09.2720542	Tags for minecraft:block mod id titaniummod
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/axe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/hoe.json
+9b2186ade1155a19c23d5f733f592487325ff3e0 data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/shovel.json
+221beda5831bea1b88e061bbe550fa0b3de2153b data/minecraft/tags/blocks/needs_diamond_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
+44cbf47ba1a1f97e9c139fe7d53220245df3e700 data/titaniummod/tags/blocks/needs_titanium_tool.json
